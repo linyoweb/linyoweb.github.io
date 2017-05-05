@@ -1,0 +1,5 @@
+在windows平台下：
+打开git bash；
+运行hexo进行静态博客的开发；
+git commit
+git push
